@@ -1,7 +1,13 @@
 # Gielis-Pallet
-A 2D/3D generator of Superformulas in table format
 
-Version 1.2 Fixes the lables on the images, a error on the equations r1 and r2.
+Version 1.2.2 is the only that works correctly.
 
-Version 1.2.2 , multiple fixes. And upgrade interface
-You will have to fix image path to the correct path
+## User Manual
+
+1st- Fill the "Especificações" and "Parametros de Forma"
+
+2nd- Click on "Criar Grelha" to show Gielis Parameters Grill for the number of graphs that you fileld in "Nº de Gráficos"
+
+3tr- Affter you field Gielis Parameters Grill press "Griar Gráficos" te generate the graphs window with mathplotlib interface
+
+![imagem](https://user-images.githubusercontent.com/70608094/207674170-fd56756e-9d45-4901-b02c-c785ffa8ec74.png)
