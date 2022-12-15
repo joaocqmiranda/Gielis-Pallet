@@ -11,3 +11,6 @@ Version 1.2.2 is the only that works correctly.
 3tr- Affter you fill Gielis Parameters Grill press "Griar Gráficos" te generate the graphs window with mathplotlib interface.
 
 ![imagem](https://user-images.githubusercontent.com/70608094/207674170-fd56756e-9d45-4901-b02c-c785ffa8ec74.png)
+
+#### Contact:
+joaocqmiranda@gmail.com
